@@ -39,3 +39,6 @@ $(call inherit-product-if-exists, vendor/prebuilts/packages.mk)
 
 # Switch Styles
 include vendor/overlay/switch/switch.mk
+
+# QS Tile Styles
+include vendor/overlay/QsThemes/QsThemes.mk

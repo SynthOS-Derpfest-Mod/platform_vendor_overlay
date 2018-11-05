@@ -3,4 +3,16 @@ PRODUCT_PACKAGES += \
     QStileDefault \
     QStileCircleTrim \
     QStileDualToneCircle \
-    QStileSquircleTrim
+    QStileSquircleTrim \
+    QStileAttemptMountain \
+    QStileDottedCircle \
+    QStileNinja \
+    QStilePokesign \
+    QStileWavey \
+    QStileSquaremedo \
+    QStileInkDrop \
+    QStileCosmos \
+    QStileDividedCircle \
+    QStileNeonLight \
+    QStileOxygen \
+    QStileTriangles
