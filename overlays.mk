@@ -30,5 +30,8 @@ PRODUCT_PACKAGES += \
     NavBarGesturalWideBackNoPillOverlay \
     NavBarGesturalExtraWideBackNoPillOverlay
 
+# Include Synth QS Style files
+include vendor/overlay/QS/qsstyle.mk
+
 # Prebuilts
 $(call inherit-product-if-exists, vendor/prebuilts/packages.mk)
