@@ -11,6 +11,7 @@ PRODUCT_PACKAGES += \
     QStileWavey \
     QStileSquaremedo \
     QStileInkDrop \
+    QStileCookie \
     QStileCosmos \
     QStileDividedCircle \
     QStileNeonLight \
