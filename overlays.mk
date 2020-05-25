@@ -30,8 +30,5 @@ PRODUCT_PACKAGES += \
     NavBarGesturalWideBackNoPillOverlay \
     NavBarGesturalExtraWideBackNoPillOverlay
 
-# Accents
-include vendor/overlay/accents.mk
-
 # Prebuilts
 $(call inherit-product-if-exists, vendor/prebuilts/packages.mk)
