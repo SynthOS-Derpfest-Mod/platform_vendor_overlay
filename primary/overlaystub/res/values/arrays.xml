@@ -2,6 +2,6 @@
 <resources>
     <string-array name="themes">
         <item>default</item>
-        <item>kronicgreen</item>
+        <item>derpblue</item>
     </string-array>
 </resources>

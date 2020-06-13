@@ -2,7 +2,7 @@
 <resources>
     <item type="drawable" name="theme_wallpaper_default">@drawable/generic_bg</item>
     <item type="drawable" name="theme_wallpaper_thumbnail_default">@drawable/generic_bg_prev</item>
-    <item type="drawable" name="theme_wallpaper_kronicgreen">@drawable/kronicgreen_bg</item>
-    <item type="drawable" name="theme_wallpaper_thumbnail_kronicgreen">@drawable/kronicgreen_bg_prev</item>
+    <item type="drawable" name="theme_wallpaper_derpblue">@drawable/derpblue_bg</item>
+    <item type="drawable" name="theme_wallpaper_thumbnail_derpblue">@drawable/derpblue_bg_prev</item>
 </resources>
 
