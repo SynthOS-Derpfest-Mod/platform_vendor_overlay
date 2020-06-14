@@ -25,17 +25,17 @@
     <string name="theme_wallpaper_attribution_default">Meh</string>
 
     <!-- Values to declare accents, there aren't themes. -->
-    <string name="theme_name_kronicgreen">KronicGreen</string>
-    <string name="theme_title_kronicgreen">@string/theme_name_kronicgreen</string>
-    <string name="theme_overlay_color_kronicgreen">com.accents.aospagreen</string>
-    <string name="theme_overlay_font_kronicgreen">com.android.theme.font.googlesans</string>
-    <string name="theme_overlay_primary_kronicgreen">com.android.theme.color.primary.black</string>
-    <string name="theme_overlay_icon_android_kronicgreen">com.android.theme.icon_pack.circular.android</string>
-    <string name="theme_overlay_icon_launcher_kronicgreen">com.android.theme.icon_pack.circular.launcher</string>
-    <string name="theme_overlay_icon_settings_kronicgreen">com.android.theme.icon_pack.circular.settings</string>
-    <string name="theme_overlay_icon_sysui_kronicgreen">com.android.theme.icon_pack.circular.systemui</string>
-    <string name="theme_overlay_shape_kronicgreen">com.android.theme.icon.squircle</string>
-    <string name="theme_wallpaper_title_kronicgreen">Kronic Bomb</string>
-    <string name="theme_wallpaper_attribution_kronicgreen">AOSiP</string>
+    <string name="theme_name_derpblue">DerpBlue</string>
+    <string name="theme_title_derpblue">@string/theme_name_derpblue</string>
+    <string name="theme_overlay_color_derpblue">com.accents.fiblue</string>
+    <string name="theme_overlay_font_derpblue">com.android.theme.font.googlesans</string>
+    <string name="theme_overlay_icon_android_derpblue">com.android.theme.icon_pack.circular.android</string>
+    <string name="theme_overlay_icon_launcher_derpblue">com.android.theme.icon_pack.circular.launcher</string>
+    <string name="theme_overlay_icon_settings_derpblue">com.android.theme.icon_pack.circular.settings</string>
+    <string name="theme_overlay_icon_sysui_derpblue">com.android.theme.icon_pack.circular.systemui</string>
+    <string name="theme_overlay_primary_derpblue">com.android.theme.color.primary.charcoalblack</string>
+    <string name="theme_overlay_shape_derpblue">com.android.theme.icon.roundedrect</string>
+    <string name="theme_wallpaper_title_derpblue">Derped Blue</string>
+    <string name="theme_wallpaper_attribution_derpblue">DerpFest</string>
 
 </resources>
