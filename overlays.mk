@@ -15,6 +15,7 @@ PRODUCT_PACKAGES += \
     PrimaryColorAOSiPBlackOverlay \
     PrimaryColorAOSiPNatureOverlay \
     PrimaryColorAOSiPOceanOverlay \
+    PrimaryColorDerpClearOverlay \
     PrimaryColorCharcoalBlackOverlay \
     PrimaryColorLeadBlackOverlay \
     PrimaryColorSolarizedDarkOverlay \
