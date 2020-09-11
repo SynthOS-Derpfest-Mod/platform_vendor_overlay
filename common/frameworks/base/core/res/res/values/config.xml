@@ -178,7 +178,7 @@
     <string name="config_defaultSystemCaptionsService">com.google.android.as/com.google.android.apps.miphone.aiai.captions.CaptionsService</string>
 
     <!-- Taken from pixel -->
-    <string name="config_defaultListenerAccessPackages" translatable="false">com.google.android.apps.nexuslauncher:com.google.android.setupwizard:com.google.android.apps.pixelmigrate:com.google.android.as</string>
+    <string name="config_defaultListenerAccessPackages" translatable="false">com.google.android.apps.nexuslauncher:com.google.android.setupwizard:com.google.android.apps.pixelmigrate:com.google.android.as:com.google.android.projection.gearhead</string>
     <string name="config_defaultAssistantAccessPackage">com.google.android.ext.services</string>
     <string name="config_defaultTextClassifierPackage">com.google.android.as</string>
     <string-array name="config_disabledUntilUsedPreinstalledImes">
