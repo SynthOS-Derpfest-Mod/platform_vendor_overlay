@@ -42,3 +42,6 @@ include vendor/overlay/switch/switch.mk
 
 # QS Tile Styles
 include vendor/overlay/QsThemes/QsThemes.mk
+
+# Plugins
+include packages/apps/Plugins/plugins.mk
